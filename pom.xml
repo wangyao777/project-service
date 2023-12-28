@@ -8,5 +8,9 @@
     <artifactId>project-service</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <modules>
+        <module>business</module>
+    </modules>
+
 
 </project>
